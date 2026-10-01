@@ -1,0 +1,26 @@
+# Samsung The Frame TV Ad & Telemetry Blocklist
+# Compatible with Pi-hole FTL / Gravity
+
+# --- ACR (Automatic Content Recognition / Fingerprinting) ---
+||samsungacr.com^
+||samsungcloudsolution.net^
+acr0.samsungcloudsolution.com
+
+# --- UI Ads & Sponsor Carousels ---
+||samsungads.com^
+||samsungadhub.com^
+config.samsungads.com
+events.samsungads.com
+
+# --- Telemetry, Diagnostic Logs, & Analytics ---
+||samsungrm.net^
+infolink.pavv.co.kr
+log.internetat.tv
+sso.internetat.tv
+
+# --- Smart Hub Promos & Background Metrics ---
+osb.samsungqbe.com
+gpm.samsungqbe.com
+api-hub.samsungyosemite.com
+
+
