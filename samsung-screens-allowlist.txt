@@ -1,0 +1,3 @@
+# --- Critical Connectivity & Time Sync ---
+time.samsungcloudsolution.com
+cdn.samsungcloudsolution.com
