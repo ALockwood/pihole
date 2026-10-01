@@ -1,0 +1,22 @@
+# ==============================================================
+# Amazon Fire Stick Appstore & Core Handshake Allowlist
+# ==============================================================
+
+# --- Appstore Metadata, In-App Billing, & DRM Licensing ---
+mas-ext.amazon.com
+mas-sdk.amazon.com
+api.amazon.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+
+# --- APK Delivery, App Icons, & UI Assets ---
+arcus-uswest.amazon.com
+m.media-amazon.com
+images-na.ssl-images-amazon.com
+d1s31zyz7dcc2d.cloudfront.net
+
+# --- Captive Portal Connectivity & Time Synchronization ---
+connectivitycheck.android.com
+spectrum.s3.amazonaws.com
+time.android.com
+pool.ntp.org
